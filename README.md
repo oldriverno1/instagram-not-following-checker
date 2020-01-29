@@ -1,5 +1,5 @@
 # instagram not following checker
-this is a program to check who's not following you back on instagram beacuse **Instagram is going to close the api in early 2020**, so we use a selenium bot instead.
+this is a program to check who's not following you back on instagram beacuse **Instagram is going to close the api in early 2020**, so I use a selenium bot instead.
 
 
 ## How to use
